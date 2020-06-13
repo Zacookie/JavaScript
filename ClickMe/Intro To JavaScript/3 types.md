@@ -26,7 +26,7 @@ console.log(40);
 #### In the example above, we first printed a string. Our string isn’t just a single word; it includes both capital and lowercase letters, spaces, and punctuation.
 
 #### Next, we printed the number 40, notice we did not use quotes.
-
+---
 > Example Code
 ```js
 console.log('JavaScript');
