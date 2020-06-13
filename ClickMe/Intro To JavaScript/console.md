@@ -14,3 +14,9 @@ console.log(5);
 #### This example logs `5` to the console. The semicolon denotes the end of the line, or statement. Although in JavaScript your code will usually run as intended without a semicolon, we recommend learning the habit of ending each statement with a semicolon so you never leave one out in the few instances when they are required.
 
 #### You’ll see later on that we can use `console.log()` to print different kinds of data.
+
+**Example Code**
+```js
+console.log(18);
+console.log(13);
+```
