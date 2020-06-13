@@ -8,7 +8,7 @@ console.log('Hello'.length); // Prints 5
 
 #### In the example above, the value saved to the `length` property is retrieved from the instance of the string, `'Hello'`. The program prints 5 to the console, because `Hello` has five characters in it.
 ---
-> Exmaple Code
+> Example Code
 ```js
 console.log('Teaching the world how to code'.length); // Output 30
 ```
