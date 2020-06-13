@@ -15,7 +15,7 @@ console.log(5);
 
 #### You’ll see later on that we can use `console.log()` to print different kinds of data.
 
-**Example Code**
+> Example Code
 ```js
 console.log(18);
 console.log(13);
