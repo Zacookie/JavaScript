@@ -4,9 +4,9 @@
 ```js
 console.log('Hello'.length); // Prints 5
 ```
-The `.` is another operator! We call it the dot operator.
+#### The `.` is another operator! We call it the dot operator.
 
-In the example above, the value saved to the `length` property is retrieved from the instance of the string, `'Hello'`. The program prints 5 to the console, because `Hello` has five characters in it.
+#### In the example above, the value saved to the `length` property is retrieved from the instance of the string, `'Hello'`. The program prints 5 to the console, because `Hello` has five characters in it.
 ---
 > Exmaple Code
 ```js
