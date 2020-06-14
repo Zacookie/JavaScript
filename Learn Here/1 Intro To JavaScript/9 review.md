@@ -14,4 +14,4 @@
 #### - Built-in objects, including `Math`, are collections of methods and properties that JavaScript provides.
 ---
 > Intoduction to JavaScript Cheatsheet!
-[Click Me!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+[Click Me!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) 
