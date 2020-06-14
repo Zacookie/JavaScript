@@ -1,5 +1,5 @@
 # Welcome to JavaScript
-![image](https://cdn.discordapp.com/attachments/720137077513125962/721491284854046790/0_7QUpKvHVkIAO3FIy.jpg)
+![image](https://cdn.discordapp.com/attachments/720899012680613890/721519037607313459/Free_Courses_to_learn_JavaScript.jpg)
 ## Introduction
 #### Last year, millions of learners started with JavaScript. Why? JavaScript is primarily known as the language of most modern web browsers, and its early quirks gave it a bit of a bad reputation. However, the language has continued to evolve and improve. JavaScript is a powerful, flexible, and fast programming language now being used for increasingly complex web development and beyond!
 
