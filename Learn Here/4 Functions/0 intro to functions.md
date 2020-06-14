@@ -13,7 +13,7 @@ const height = 6;
 const area =  width * height;
 console.log(area); // Output: 60
 ```
-Imagine being asked to calculate the area of three different rectangles:
+#### Imagine being asked to calculate the area of three different rectangles:
 ```js
 // Area of the first rectangle
 const width1 = 10;
