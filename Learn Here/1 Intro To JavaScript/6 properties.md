@@ -11,4 +11,4 @@ console.log('Hello'.length); // Prints 5
 > Example Code
 ```js
 console.log('Teaching the world how to code'.length); // Output 30
-```
+``` 
