@@ -36,4 +36,4 @@ console.log(Math.floor(Math.random() * 50)); // Prints a random whole number bet
 ```js
 console.log(Math.ceil((Math.random() * 43.8)));
 console.log(Number.isInteger(2017));
-```
+``` 
