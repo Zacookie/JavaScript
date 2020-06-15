@@ -1,4 +1,4 @@
-#Parameters and Arguments
+# Parameters and Arguments
 
 #### So far, the functions we’ve created execute a task without an input. However, some functions can take inputs and use the inputs to perform a task. When declaring a function, we can specify its *parameters*. Parameters allow functions to accept input(s) and perform a task using the input(s). We use parameters as placeholders for information that will be passed to the function when it is called.
 #### Let’s observe how to specify parameters in our function declaration:
