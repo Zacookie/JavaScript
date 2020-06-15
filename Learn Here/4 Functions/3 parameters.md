@@ -15,3 +15,12 @@
 #### The variables `rectWidth` and `rectHeight` are initialized with the values for the height and width of a rectangle before being used in the function call.
 
 #### By using parameters, `calculateArea()` can be reused to compute the area of any rectangle! Functions are a powerful tool in computer programming so let’s practice creating and calling functions with parameters.
+---
+> Example Code
+```js
+function sayThanks(name) {
+  console.log('Thank you for your purchase '+ name + '! We appreciate your business.');
+}
+sayThanks('Cole');
+// Output: 'Thank you for your purchase Cole! We appreciate your business.'
+```
