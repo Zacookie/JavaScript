@@ -16,9 +16,9 @@ getFahrenheit(15); // Returns 59
 ```
 #### In the example above:
 
-#### - getFahrenheit() is called and 15 is passed as an argument.
+#### - `getFahrenheit()` is called and 15 is passed as an argument.
 #### - The code block inside of getFahrenheit() calls multiplyByNineFifths() and passes 15 as an argument.
-#### - multiplyByNineFifths() takes the argument of 15 for the number parameter.
+#### - ```multiplyByNineFifths()``` takes the argument of 15 for the number parameter.
 #### - The code block inside of multiplyByNineFifths() function multiplies 15 by (9/5), which evaluates to 27.
 #### - 27 is returned back to the function call in getFahrenheit().
 #### - getFahrenheit() continues to execute. It adds 32 to 27, which evaluates to 59.
