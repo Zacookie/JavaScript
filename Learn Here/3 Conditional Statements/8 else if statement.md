@@ -3,7 +3,7 @@
 #### We can add more conditions to our `if...else` with an `else if` statement. The `else if` statement allows for more than two possible outcomes. You can add as many else if statements as you’d like, to make more complex conditionals!
 
 #### The `else if` statement always comes after the `if` statement and before the `else` statement. The `else if` statement also takes a condition. Let’s take a look at the syntax:
-```
+```js
 let stopLight = 'yellow';
 
 if (stopLight === 'red') {
@@ -21,7 +21,7 @@ if (stopLight === 'red') {
 #### In the example above, since `stopLight === 'red'` evaluates to `false` and `stopLight === 'yellow'` evaluates to `true`, the code inside the first `else if` statement is executed. The rest of the conditions are not evaluated. If none of the conditions evaluated to `true`, then the code in the `else` statement would have executed.
 ---
 > Example Code
-```
+```js
 let season = 'summer';
 
 if (season === 'spring') {
