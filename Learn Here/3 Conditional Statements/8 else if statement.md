@@ -14,7 +14,8 @@ if (stopLight === 'red') {
   console.log('Go!');
 } else {
   console.log('Caution, unknown!');
-}```
+}
+```
 #### The `else if` statements allow you to have multiple possible outcomes. `if/else if/else` statements are read from top to bottom, so the first condition that evaluates to `true` from the top to bottom is the block that gets executed.
 
 #### In the example above, since `stopLight === 'red'` evaluates to `false` and `stopLight === 'yellow'` evaluates to `true`, the code inside the first `else if` statement is executed. The rest of the conditions are not evaluated. If none of the conditions evaluated to `true`, then the code in the `else` statement would have executed.
