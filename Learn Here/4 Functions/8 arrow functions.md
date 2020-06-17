@@ -7,7 +7,8 @@
 const rectangleArea = (width, height) => {
   let area = width * height;
   return area;
-};```
+};
+```
 #### It’s important to be familiar with the multiple ways of writing functions because you will come across each of these when reading other JavaScript code.
 ---
 > Example Code
@@ -19,5 +20,4 @@ const plantNeedsWater = (day) => {
     return false;
   }
 };
-
 ```
