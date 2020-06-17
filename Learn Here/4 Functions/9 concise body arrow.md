@@ -18,9 +18,9 @@ const squareNum = num => num * num;
 ```
 #### Notice the following changes:
 
-#### * The parentheses around `num` have been removed, since it has a single parameter.
-#### * The curly braces `{ }` have been removed since the function consists of a single-line block.
-#### * The `return` keyword has been removed since the function consists of a single-line block.
+#### - The parentheses around `num` have been removed, since it has a single parameter.
+#### - The curly braces `{ }` have been removed since the function consists of a single-line block.
+#### - The `return` keyword has been removed since the function consists of a single-line block.
 ---
 > Example Code
 ```js
