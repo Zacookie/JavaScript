@@ -5,7 +5,7 @@
 
 #### - A *function* is a reusable block of code that groups together a sequence of statements to perform a specific task.
 
-A *function* declaration :
+#### A *function* declaration :
 ![image](https://cdn.discordapp.com/attachments/720137077513125962/722846112049922209/Screen_Shot_2020-06-17_at_10.10.39_AM.png)
 #### - A parameter is a named variable inside a function’s block which will be assigned the value of the argument passed in when the function is invoked:
 ![image](https://cdn.discordapp.com/attachments/720137077513125962/722846263728537831/Screen_Shot_2020-06-17_at_10.10.49_AM.png)
