@@ -46,4 +46,4 @@ const logVisibleLightWaves = () => {
 };
 
 logVisibleLightWaves();
-```
+``` 
