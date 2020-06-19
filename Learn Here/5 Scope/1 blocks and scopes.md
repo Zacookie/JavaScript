@@ -1,6 +1,6 @@
 # Blocks and Scope
 
-#### Before we talk more about scope, we first need to talk about *blocks*.
+### Before we talk more about scope, we first need to talk about *blocks*.
 
 #### We’ve seen blocks used before in functions and `if` statements. A block is the code found inside a set of curly braces `{}`. Blocks help us group one or more statements together and serve as an important structural marker for our code.
 
