@@ -37,6 +37,6 @@ const callMyNightSky = () => {
 	return 'Night Sky: ' + satellite + ', ' + stars + ', ' + galaxy
 };
 
-console.log(callMyNightSky());
-console.log(stars);
+console.log(callMyNightSky()); // Prints 'Night Sky: The Moon, Sirius, The Milky Way'
+console.log(stars); // Prints 'Sirius'
 ```
