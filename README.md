@@ -10,3 +10,12 @@
 ##### ©CodeCademy
 
 #### Note: I do not own any of these tutorials. Everything that you will read and learn from this platform is based and from [Codecademy](https://codecademy.com/).
+---
+# Other Resources:
+[Discord.JS org](https://discord.js.org/#/)
+[Discord.JS Guide](https://discordjs.guide/)
+[Discord.JS GitHub](https://github.com/discordjs/discord.js/)
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+[MDN's JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+[Node](https://nodeschool.io/)
+[JavaScript Reference/Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
