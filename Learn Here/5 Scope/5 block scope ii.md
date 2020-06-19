@@ -33,17 +33,15 @@ console.log(color); // ReferenceError
 ---
 > Example Code
 ```js
-const logVisibleLightWaves = () => {
-  let lightWaves = 'Moonlight';
-	let region = 'The Arctic'; 
+const satellite = 'The Moon';
+const galaxy = 'The Milky Way';
+let stars = 'North Star';
 
-  if(region === 'The Arctic') {
-    let lightWaves = 'Northern Lights';
-    console.log(region); // Prints 'The Arctic'
-    console.log(lightWaves); // Prints 'Northern Lights'
-  }
-  console.log(lightWaves); // Prints 'Moonlight'
+const callMyNightSky = () => {
+  stars = 'Sirius';
+	return 'Night Sky: ' + satellite + ', ' + stars + ', ' + galaxy
 };
 
-logVisibleLightWaves();
+console.log(callMyNightSky()); // Prints 'Night Sky: The Moon, Sirius, The Milky Way'
+console.log(stars); // Prints 'Sirius'
 ```
