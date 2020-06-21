@@ -12,6 +12,7 @@
 #### Note: I do not own any of these tutorials. Everything that you will read and learn from this platform is based and from [Codecademy](https://codecademy.com/).
 ---
 # Other Resources:
+#### [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 #### [Discord.JS org](https://discord.js.org/#/)
 #### [Discord.JS Guide](https://discordjs.guide/)
 #### [Discord.JS GitHub](https://github.com/discordjs/discord.js/)
@@ -19,3 +20,6 @@
 #### [MDN's JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 #### [Node](https://nodeschool.io/)
 #### [JavaScript Reference/Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+#### [JavaScript.info](https://javascript.info/)
+#### [Learn-JS](https://www.learn-js.org/)
+#### [W3schools](https://www.w3schools.com/js/)
