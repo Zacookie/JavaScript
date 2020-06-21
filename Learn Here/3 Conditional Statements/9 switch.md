@@ -10,7 +10,9 @@ if (groceryItem === 'tomato') {
   console.log('Papayas are $1.29');
 } else {
   console.log('Invalid item');
-}```
+}
+```
+
 #### In the code above, we have a series of conditions checking for a value that matches a `groceryItem` variable. Our code works fine, but imagine if we needed to check 100 different values! Having to write that many `else if` statements sounds like a pain!
 
 #### A `switch` statement provides an alternative syntax that is easier to read and write. A `switch` statement looks like this:
