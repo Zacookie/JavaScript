@@ -22,4 +22,4 @@
 #### [JavaScript Reference/Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 #### [JavaScript.info](https://javascript.info/)
 #### [Learn-JS](https://www.learn-js.org/)
-#### [W3schools](https://www.w3schools.com/js/)
+#### [W3school](https://www.w3schools.com/js/)
