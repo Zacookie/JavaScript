@@ -3,7 +3,7 @@
 ---
 > Example Code
 ```js
-const vacationSpots = ['Niagara Falls', 'Banff National Park', 'Toronto\'s CN Tower'];
+const vacationSpots = ["Niagara Falls", "Banff National Park", "Toronto's CN Tower"];
 
 console.log(vacationSpots[0]); // Prints 'Niagara Falls'
 console.log(vacationSpots[1]); // Prints 'Banff National Park'
