@@ -14,6 +14,7 @@ In the example above, we log `newYearsResolutions.length` to the console using t
 - Since `newYearsResolution` has two elements, so `2` would be logged to the console.
 
 When we want to know how many elements are in an array, we can access the `.length` property.
+
 ---
 > Example Code
 ```js
