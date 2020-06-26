@@ -15,6 +15,7 @@ To invoke a function expression, write the name of the variable in which the fun
 variableName(argument1, argument2)
 ```
 Unlike function declarations, function expressions are not hoisted so they cannot be called before they are defined.
+
 ---
 > Example Code
 ```js
