@@ -11,7 +11,7 @@ Let’s review what we learned:
 - Variables that have not been initialized store the primitive data type `undefined`.
 - Mathematical assignment operators make it easy to calculate a new value and assign it to the same variable.
 - The `+` operator is used to concatenate strings including string values held in variables
-- In ES6, template literals use backticks `[`]`` and `${}` to interpolate values into a string.
+- In ES6, template literals use backticks `[`]` and `${}` to interpolate values into a string.
 - The `typeof` keyword returns the data type (as a string) of a value.
 ---
 > Variables Cheatsheet!
