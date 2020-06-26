@@ -12,6 +12,7 @@ We can also save an array to a variable. You may have noticed we did this in the
 ```js
 let newYearsResolutions = ['Keep a journal', 'Take a falconry class', 'Learn to juggle'];
 ```
+---
 > Example Code
 ```js
 const hobbies = ["coding", "reading", "learning"];
