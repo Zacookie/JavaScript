@@ -1,14 +1,14 @@
 # **Comments**
 
-#### Programming is often highly collaborative. In addition, our own code can quickly become difficult to understand when we return to it— sometimes only an hour later! For these reasons, it’s often useful to leave notes in our code for other developers or ourselves.
+ Programming is often highly collaborative. In addition, our own code can quickly become difficult to understand when we return to it— sometimes only an hour later! For these reasons, it’s often useful to leave notes in our code for other developers or ourselves.
 
-#### As we write JavaScript, we can write comments in our code that the computer will ignore as our program runs. These comments exist just for human readers.
+ As we write JavaScript, we can write comments in our code that the computer will ignore as our program runs. These comments exist just for human readers.
 
-#### Comments can explain what the code is doing, leave instructions for developers using the code, or add any other useful annotations.
+ Comments can explain what the code is doing, leave instructions for developers using the code, or add any other useful annotations.
 
-#### There are two types of code comments in JavaScript:
+ There are two types of code comments in JavaScript:
 
-#### 1. A *single line comment* will comment out a single line and is denoted with two forward slashes `//` preceding it.
+ 1. A *single line comment* will comment out a single line and is denoted with two forward slashes `//` preceding it.
 ```js
 // Prints 5 to the console
 console.log(5);
@@ -18,7 +18,7 @@ You can also use a single line comment to comment after a line of code:
 ```js
 console.log(5);  // Prints 5 
 ```
-#### 2. A *multi-line comment* will comment out multiple lines and is denoted with `/*` to begin the comment, and `*/` to end the comment.
+ 2. A *multi-line comment* will comment out multiple lines and is denoted with `/*` to begin the comment, and `*/` to end the comment.
 ```js
 /*
 This is all commented 
