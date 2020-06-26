@@ -16,6 +16,7 @@ console.log(hello[6]);
 // Output: W
 ```
 The console will display `W` since it is the character that is at index `6`.
+
 ---
 > Example Code
 ```js
