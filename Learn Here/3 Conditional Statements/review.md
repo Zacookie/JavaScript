@@ -9,7 +9,7 @@ Here are some of the major concepts for conditionals:
 - The logical and operator, `&&`, or “and”, checks if both provided expressions are truthy.
 - The logical operator `||`, or “or”, checks if either provided expression is truthy.
 - The bang operator, `!`, switches the truthiness and falsiness of a value.
-- The ternary operator is shorthand to simplify concise i`f...else` statements.
+- The ternary operator is shorthand to simplify concise `if...else` statements.
 - A `switch` statement can be used to simplify the process of writing multiple `else if` statements. The `break` keyword stops the remaining `case`s from being checked and executed in a `switch` statement.
 ---
 > Conditionals Cheatsheet! 
