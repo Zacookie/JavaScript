@@ -4,6 +4,7 @@ You may recall that you can declare variables with both the `let` and `const` ke
 Variables declared with the `const` keyword cannot be reassigned. However, elements in an array declared with `const` remain mutable. Meaning that we can change the contents of a `const` array, but cannot reassign a new array or a different value.
 
 The instructions below will illustrate this concept more clearly. Pay close attention to the similarities and differences between the `condiments` array and the `utensils` array as you complete the steps.
+
 ---
 > Example Code
 ```js
