@@ -17,6 +17,7 @@ So, how does `.push()` work?
 - `.push()` can take a single argument or multiple arguments separated by commas. In this case, we’re adding two elements: `'item 3'` and `'item 4'` to `itemTracker`.
 - Notice that `.push()` changes, or *mutates*, `itemTracker`. You might also see `.push()` referred to as a *destructive array* method since it changes the initial array.
 If you’re looking for a method that will mutate an array by adding elements to it, then `.push()` is the method for you!
+
 ---
 > Example Code
 ```js
