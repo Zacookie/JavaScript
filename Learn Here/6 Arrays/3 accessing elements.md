@@ -4,6 +4,7 @@ Each element in an array has a numbered position known as its *index*. We can ac
 Arrays in JavaScript are *zero-indexed*, meaning the positions start counting from `0` rather than `1`. Therefore, the first item in an array will be at position `0`. Let’s see how we could access an element in an array:
 
 ![image](https://cdn.discordapp.com/attachments/720137467579334716/724085157421776987/Screen_Shot_2020-06-20_at_8.12.54_PM.png)
+
 In the code snippet above:
 
 - `cities` is an array that has three elements.
