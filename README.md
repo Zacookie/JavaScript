@@ -10,9 +10,13 @@
 ©CodeCademy
 
  Note: I do not own any of these tutorials. Everything that you will read and learn from this platform is based and from [Codecademy](https://codecademy.com/).
+
 ---
+
 Invite Locator Bot: [Invite](https://discord.com/oauth2/authorize?client_id=723750322631213056&scope=bot&permissions=52224)
+
 ---
+
 Other Resources:
  [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
  [Discord.JS org](https://discord.js.org/#/)
