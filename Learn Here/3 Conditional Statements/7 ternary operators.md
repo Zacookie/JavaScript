@@ -1,8 +1,8 @@
 # Ternary Operator
 
-#### In the spirit of using short-hand syntax, we can use a *ternary operator* to simplify an `if...else` statement.
+In the spirit of using short-hand syntax, we can use a *ternary operator* to simplify an `if...else` statement.
 
-#### Take a look at the `if...else` statement example:
+Take a look at the `if...else` statement example:
 ```js
 let isNightTime = true;
 
@@ -12,18 +12,19 @@ if (isNightTime) {
   console.log('Turn off the lights!');
 }
 ```
-#### We can use a *ternary operator* to perform the same functionality:
+We can use a *ternary operator* to perform the same functionality:
 ```js
 isNightTime ? console.log('Turn on the lights!') : console.log('Turn off the lights!');
 ```
-#### In the example above:
+In the example above:
 
-#### - The condition, `isNightTime`, is provided before the `?`.
-#### - Two expressions follow the `?` and are separated by a colon `:`.
-#### - If the condition evaluates to `true`, the first expression executes.
-#### - If the condition evaluates to `false`, the second expression executes.
+- The condition, `isNightTime`, is provided before the `?`.
+- Two expressions follow the `?` and are separated by a colon `:`.
+- If the condition evaluates to `true`, the first expression executes.
+- If the condition evaluates to `false`, the second expression executes.
 
-#### Like `if...else` statements, ternary operators can be used for conditions which evaluate to `true` or `false`.
+Like `if...else` statements, ternary operators can be used for conditions which evaluate to `true` or `false`.
+
 ---
 > Example Code
 ```js
