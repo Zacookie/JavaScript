@@ -18,14 +18,25 @@ Invite Locator Bot: [Invite](https://discord.com/oauth2/authorize?client_id=7237
 ---
 
 Other Resources:
+
  [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
  [Discord.JS org](https://discord.js.org/#/)
+
  [Discord.JS Guide](https://discordjs.guide/)
+
  [Discord.JS GitHub](https://github.com/discordjs/discord.js/)
+
  [Eloquent JavaScript](http://eloquentjavascript.net/)
+
  [MDN's JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+
  [Node](https://nodeschool.io/)
+
  [JavaScript Reference/Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
  [JavaScript.info](https://javascript.info/)
+
  [Learn-JS](https://www.learn-js.org/)
+ 
  [W3school](https://www.w3schools.com/js/)
