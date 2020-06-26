@@ -6,13 +6,14 @@ const myPet = 'armadillo';
 console.log(`I own a pet ${myPet}.`);
 // Output: I own a pet armadillo.
 ```
-#### Notice that:
+Notice that:
 
-#### - a template literal is wrapped by backticks `[`]` (this key is usually located on the top of your keyboard, left of the 1️⃣ key).
-#### - Inside the template literal, you’ll see a placeholder, `${myPet}`. The value of `myPet` is inserted into the template literal.
-#### - When we interpolate ``I own a pet ${myPet}.``, the output we print is the string: `'I own a pet armadillo.'`
+- a template literal is wrapped by backticks `[`]` (this key is usually located on the top of your keyboard, left of the 1️⃣ key).
+- Inside the template literal, you’ll see a placeholder, `${myPet}`. The value of `myPet` is inserted into the template literal.
+- When we interpolate ``I own a pet ${myPet}.``, the output we print is the string: `'I own a pet armadillo.'`
 
-#### One of the biggest benefits to using template literals is the readability of the code. Using template literals, you can more easily tell what the new string will be. You also don’t have to worry about escaping double quotes or single quotes.
+One of the biggest benefits to using template literals is the readability of the code. Using template literals, you can more easily tell what the new string will be. You also don’t have to worry about escaping double quotes or single quotes.
+
 ---
 > Exmaple Code
 ```js
