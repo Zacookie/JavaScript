@@ -4,3 +4,5 @@ A *loop* is a programming tool that repeats a set of instructions until a specif
 When we need to reuse a task in our code, we often bundle that action in a function. Similarly, when we see that a process has to repeat multiple times in a row, we write a loop. Loops allow us to create efficient code that automates processes to make scalable, manageable programs.
 
 As illustrated in the diagram, loops iterate or repeat an action until a specific condition is met. When the condition is met, the loop stops and the computer moves on to the next part of the program.
+
+![image](https://cdn.discordapp.com/attachments/725582382660583452/728399703644831785/Screen_Shot_2020-07-02_at_5.57.49_PM.png)
