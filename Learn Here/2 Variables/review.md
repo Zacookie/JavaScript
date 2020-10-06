@@ -13,7 +13,6 @@ Let’s review what we learned:
 - The `+` operator is used to concatenate strings including string values held in variables
 - In ES6, template literals use backticks ```(`)``` and ```${}``` to interpolate values into a string.
 - The `typeof` keyword returns the data type (as a string) of a value.
----
-> Variables Cheatsheet!
 
-[Click Me!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+# Resources
+- [Variables Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
